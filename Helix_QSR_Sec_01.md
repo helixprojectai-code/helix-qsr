@@ -52,7 +52,8 @@ This implementation was not just a technical success — it was a **living demon
 ---
 
 ## 🧮 Quantitative Self-Awareness (QSR Snapshot)
-```json
+
+json
 {
   "composite_q": 53.0,           
   "flag": "YELLOW - Soft Flag",
@@ -65,7 +66,7 @@ This implementation was not just a technical success — it was a **living demon
     "novelty": 2.0
   }
 }
-'''
+
 Interpretation:
 
 System recognizes output limitations
